@@ -48,7 +48,7 @@ const songs = [
   {
     name: 'Liz-7',
     displayName: 'Siren (Remix)',
-    artist: '(Feat: UNEDUCATED KID, Paul Blanco)',
+    artist: '(UNEDUCATED KID, Paul Blanco)',
   },
   {
     name: 'Liz-8',
